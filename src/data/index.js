@@ -38,7 +38,7 @@ export const users = [
 		friends: [],
 		location: "Oslo",
 		occupation: "Backend developer",
-		viewedProfile: 12351,
+		viewedProfile: 1235,
 		impressions: 55555,
 		createdAt: 1595589072,
 		updatedAt: 1595589072,
