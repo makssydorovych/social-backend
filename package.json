@@ -1,4 +1,8 @@
 {
+  "name": "server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
@@ -15,10 +19,6 @@
     "nodemon": "^2.0.22",
     "typescript": "^5.0.4"
   },
-  "name": "server",
-  "version": "1.0.0",
-  "main": "src/index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
